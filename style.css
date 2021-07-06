@@ -1,0 +1,89 @@
+body {
+    font-family: 'Source Sans Pro';
+    background-color: #E5F3F4;
+    margin: 0;
+    color: #FFFFFF
+}
+
+nav {
+    background-color: #3498DB;
+    padding: 1em 0px .5em .5em;
+}
+
+.title-complete {
+    margin: 1em auto 1em 1.5em;
+}
+
+.site-title {
+    font-family: 'Alegreya';
+    margin: .5em auto 0 0; 
+}
+
+.sub-title {
+    margin: 0 auto 1em 0;
+    font-size: .9em;
+}
+
+.quote {
+    background: #2ECC71;
+    border: 3px solid #27AE60;
+    border-radius: 2px;
+    margin: 1.5em auto;
+    padding: 1.5em;
+    width: 50%;
+    color: #0E4224
+}
+
+.quote-text {
+    margin: 0;
+}
+.quoted-from {
+    margin: 0;
+    text-align: right;
+    font-style: italic;
+}
+
+.try-it-now {
+    background: #E74C3C;
+    border: 3px solid #C0392B;
+    border-radius: 15px;
+    margin: 1.5em auto;
+    padding: 0;
+    width: 35%;
+    text-align: center;
+    font-style: italic;
+}
+
+#want-to-try-it-yourself {
+    font-weight: 100;
+    margin-bottom: .25em;
+}
+
+#click-here,
+#click-here-link {
+    margin-top: .25em;
+    font-family: 'Alegreya';
+    color: #FFFFFF;
+}
+
+.blue-page-section {
+    background: #2C3E50;
+    padding: 1.5em 2em 2.5em 2em;
+}
+
+footer,
+.footer-link {
+    background: #1C2224;
+    color: #2D78AA;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    padding: 1em
+}
+
+.footer-link {
+    margin-left: 1em;
+    margin-right: 1em;
+}
